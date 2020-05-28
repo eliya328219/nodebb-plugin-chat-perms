@@ -1,6 +1,6 @@
 # chat perms
 
-Allows NodeBB to interface with the onesignal service in order to provide push notifications to user mobile phones.
+מאפשר בקרהת מנהל על הצאטים 
 
 ## Installation
 
